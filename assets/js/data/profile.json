@@ -1,0 +1,66 @@
+
+{
+  "name": "Vando c Ramos",
+  "photo": "https://avatars.githubusercontent.com/u/128709670?v=4",
+  "job": "Desenvolvedor em Formação",
+  "location": "São Paulo - SP",
+  "phone": "(11) 94891-6368",
+  "email": "ramosvando@gmail.com",
+  "skills": {
+    "hardSkills": [
+      {
+        "name": "C#",
+        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/csharp.png"
+      },
+      {
+        "name": "Java",
+        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/java.png"
+      },
+      {
+        "name": "HTML",
+        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/html.png"
+      },
+      {
+        "name": "CSS",
+        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/css.png"
+      }
+    
+
+
+
+
+      
+
+
+    ],  
+    "softSkills": [
+      "Empatia",
+      "Liderança",
+      "Trabalho em equipe",
+      "Flexibilidade",
+      "Organização"
+    ]
+  },
+  "languages": [
+    "Português BR"
+  ],
+  "portfolio": [
+    {
+      "name": "Curso Ministrado na DIO para a criação de um site clinica veterinaria",
+      "url": "https://github.com/vcr1985/site_clinica_veterinaria_html.git",
+      "github": true
+    },
+    {
+      "name": "Curso Ministrado na DIO para a criação de uma página de portfolio",
+      "url": "https://github.com/vcr1985/Meu-Portfolio.git",
+      "github": true
+    }
+  ],
+  "professionalExperience": [
+    {
+      "name": "Condominio Edificio Silvia",
+      "period": "2011 - até o momento",
+      "description": "É um prazer trabalhar ao lado de tantos profissionais."
+    }
+  ]
+}
