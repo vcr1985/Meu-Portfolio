@@ -1,7 +1,7 @@
 
 
 async function fetchProfileData() {
-    const url = 'https://raw.githubusercontent.com/vcr1985/js-developer-portfolio/main/index.html';
+    const url = 'https://github.com/vcr1985/Meu-Portfolio';
     const response = await fetch(url)
     const profileData = await response.json()
     return profileData
