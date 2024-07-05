@@ -17,7 +17,7 @@
     align-items: flex-start; /* Alinha os itens ao início */
     margin: 1rem 0; /* Margem superior e inferior */
     padding: 1rem; /* Adiciona preenchimento interno */
-    border: 1px solid #ddd; /* Adiciona uma borda leve */
+    border: 1px solid #dddddd; /* Adiciona uma borda leve */
     border-radius: 5px; /* Arredonda os cantos */
     background-color: #853535; /* Fundo leve */
     transition: background-color 0.3s ease, transform 0.3s ease; /* Animações para transições */
