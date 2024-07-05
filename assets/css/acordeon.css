@@ -56,10 +56,10 @@
     height: 1.5rem;
     background-repeat: no-repeat;
     background-size: contain;
-    background-image: url("assets/img/icons/arrow-top.svg");
-    transform: .25s;
-
+    background-image: url("../img/icons/arrow-top.svg");
+    transition: transform .25s;
 }
+
 
 .acordeon.open .trigger::after {
     transform: rotate(180deg);
